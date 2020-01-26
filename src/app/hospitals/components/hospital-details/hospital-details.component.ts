@@ -20,8 +20,8 @@ export class HospitalDetailsComponent {
         this.id = params['id'];
         this.name = params['name'];
     });
-    console.log(this.id)
-    console.log(this.name)
+    // console.log(this.id)
+    // console.log(this.name)
    this.getDetails();
   }
   getDetails() {

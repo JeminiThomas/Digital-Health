@@ -6,10 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./device-dashboard.component.css']
 })
 export class DeviceDashboardComponent implements OnInit {
-
   constructor() { }
 
   ngOnInit() {
   }
-
 }

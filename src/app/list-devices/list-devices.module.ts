@@ -6,7 +6,6 @@ import { DeviceListComponent } from './components/device-list/device-list.compon
 import { DeviceDetailsComponent } from './components/device-details/device-details.component';
 import { DeviceDashboardComponent } from './components/device-dashboard/device-dashboard.component';
 
-
 @NgModule({
   declarations: [DeviceListComponent, DeviceDetailsComponent, DeviceDashboardComponent],
   imports: [
